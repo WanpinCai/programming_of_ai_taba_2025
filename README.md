@@ -1,0 +1,2 @@
+# programming_of_ai_taba_2025
+NCI programming_of_ai_taba_2025
