@@ -5,7 +5,7 @@
 This project focuses on analyzing the relationship between weather conditions and grain production across multiple regions. The objective is to identify trends, correlations, and patterns that can help optimize agricultural practices, predict future yields, and assess the impact of climate variability on crop production.
 
 ### Project Presentation Video
-[Vist Link](https://studentncirl-my.sharepoint.com/:f:/r/personal/x23351560_student_ncirl_ie/Documents/Programming_for_AI_Files?csf=1&web=1&e=BZP4SJ)
+[Visit Link](https://studentncirl-my.sharepoint.com/:f:/r/personal/x23351560_student_ncirl_ie/Documents/Programming_for_AI_Files?csf=1&web=1&e=BZP4SJ)
 
 ### Dataset Resources
 [Weather dataset Resource 1: Visual Crossing](https://www.visualcrossing.com/)
