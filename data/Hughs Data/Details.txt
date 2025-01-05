@@ -1,1 +1,12 @@
-Details
+The files denoted in the style united states 20xx-01-01 to 20xx-12-31.csv contain the daily weathe data for the year 20xx.
+
+The file weatherdata16to22.csv contains all the daily weather data from Jan 2016 to Dec 2022
+The file weather-weekly_data16to22.csv contains a summary of the weatherdata16to22.csv file and contains a summary of each weeks weather characteristics.
+
+The file cereal16to22.csv contains yearly cereal production data for the years 2018 to 2022.
+
+The file Weatherdata.Weekly Weather.json is the output of our MongoDB code and contains our weekle weather data as well as the average weekly cereal production for that year.
+
+
+
+
