@@ -5,8 +5,9 @@
 This project focuses on analyzing the relationship between weather conditions and grain production across multiple regions. The objective is to identify trends, correlations, and patterns that can help optimize agricultural practices, predict future yields, and assess the impact of climate variability on crop production.
 
 ### Project Presentation Video
-[[Visit Link](https://studentncirl-my.sharepoint.com/:f:/r/personal/x23351560_student_ncirl_ie/Documents/Programming_for_AI_Files?csf=1&web=1&e=BZP4SJ)
-](https://studentncirl-my.sharepoint.com/personal/x23351560_student_ncirl_ie/_layouts/15/stream.aspx?id=%2Fpersonal%2Fx23351560%5Fstudent%5Fncirl%5Fie%2FDocuments%2FProgramming%5Ffor%5FAI%5FFiles%2FProject%20video%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eee1503de%2D6b1a%2D45f4%2Da991%2D028510561a05) 
+[[Document Link](https://studentncirl-my.sharepoint.com/:f:/r/personal/x23351560_student_ncirl_ie/Documents/Programming_for_AI_Files?csf=1&web=1&e=BZP4SJ)
+]
+<br/> [Video link](https://studentncirl-my.sharepoint.com/personal/x23351560_student_ncirl_ie/_layouts/15/stream.aspx?id=%2Fpersonal%2Fx23351560%5Fstudent%5Fncirl%5Fie%2FDocuments%2FProgramming%5Ffor%5FAI%5FFiles%2FProject%20video%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eee1503de%2D6b1a%2D45f4%2Da991%2D028510561a05) 
 ### Dataset Resources
 [Weather dataset Resource 1: Visual Crossing](https://www.visualcrossing.com/)
 
