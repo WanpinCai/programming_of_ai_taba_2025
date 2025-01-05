@@ -1,0 +1,36 @@
+[
+  {
+    "$addFields": {
+      "year": { "$year": "$week_starting_date" }
+    }
+  },
+  {
+    "$lookup": {
+      "from": "CerealData",
+      "localField": "year",
+      "foreignField": "Year",
+      "as": "cerealData"
+    }
+  },
+  {
+    "$addFields": {
+      "average_cereal_production_per_week": {
+        "$arrayElemAt": ["$cerealData.Average Cereal Production per week", 0]
+      }
+    }
+  },
+  {
+    "$project": {
+      "cerealData": 0,
+      "year": 0
+    }
+  },
+  {
+    "$merge": {
+      "into": "WeeklyWeather",
+      "on": "_id",
+      "whenMatched": "merge",
+      "whenNotMatched": "fail"
+    }
+  }
+]
